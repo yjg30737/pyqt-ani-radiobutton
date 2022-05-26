@@ -1,2 +1,8 @@
 # pyqt-ani-radiobutton
-PyQt animated QRadioButton
+PyQt QRadioButton for animation
+
+## Requirements
+* PyQt5 >= 5.8
+
+## Setup
+`python -m pip install pyqt-ani-radiobutton`
